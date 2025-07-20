@@ -1,6 +1,5 @@
 # 💫 About Me:
-I'm currently student in ENSEEIHT. I have a bachelor degree in computer science and I'm currently working on my master degree in computer science.<br> I have a good knowledge in computer science and I can help you to understand the basics of computer science.<br>  I can also help you to improve your programming skills in C, C++, Java, Python, PHP, HTML, CSS, JavaScript, SQL, etc.
-
+I'm currently computer science engineer. I have a master degree in computer science.<br> I have a good knowledge in computer science and I can help you to understand the basics of computer science.<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&?logo=linkedin&logoColor=white)](https://linkedin.com/in/killian-brisset-373497224/) 
